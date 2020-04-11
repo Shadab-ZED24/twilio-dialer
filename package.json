@@ -1,23 +1,22 @@
 {
-  "name": "twilio-call-phone-from-browser",
+  "name": "twilio-dialer",
   "version": "1.0.0",
   "description": "Call a phone from a browser using twilio using a node express setup",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zaccolley/twilio-call-phone-from-browser.git"
+    "url": "https://github.com/Shadab-ZED24/twilio-dialer"
   },
   "keywords": [],
-  "author": "Zac Colley <hi@zaccolley.com> (http://zaccolley.com)",
+  "author": "Shadab Khan Zed <shadab.khan@zedd.xyz> (http://zedd.xyz)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zaccolley/twilio-call-phone-from-browser/issues"
+    "url": "https://github.com/Shadab-ZED24/twilio-dialer/issues"
   },
-  "homepage": "https://github.com/zaccolley/twilio-call-phone-from-browser",
+  "homepage": "https://github.com/Shadab-ZED24/twilio-dialer",
   "dependencies": {
     "body-parser": "^1.14.2",
     "dotenv": "^2.0.0",
